@@ -1,0 +1,3 @@
+bungee\vaccum\module\reportsystem\commands\ReportCommand.class
+bungee\vaccum\module\reportsystem\ReportSystem.class
+bungee\vaccum\module\reportsystem\listener\JoinListener.class

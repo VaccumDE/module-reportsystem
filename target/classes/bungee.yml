@@ -1,0 +1,8 @@
+name: module-reportsystem
+version: 1.0-RELEASE
+main: bungee.vaccum.module.reportsystem.ReportSystem
+author: Vaccum.de
+authors: [VaccumDE, Prixix]
+depends:
+  - vBungeeAPI
+  - CloudNet-Bridge
